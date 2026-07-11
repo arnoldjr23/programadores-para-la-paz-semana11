@@ -1,0 +1,7 @@
+La interfaz sería sencilla y fácil de usar. En la parte superior habría un formulario para crear una causa, con campos como título, descripción y fecha, junto a un botón para enviarla.
+
+Debajo, se mostraría una lista de causas disponibles, donde cada una aparece en una tarjeta con su información básica. Cada tarjeta tendría un botón de “Apoyar”, que permite a los usuarios participar con un solo clic.
+
+Además, cada causa incluiría un contador de apoyos, visible para que todos puedan ver cuántas personas la respaldan.
+
+La interfaz debe ser clara, organizada y accesible, evitando mostrar datos personales o información sensible de los usuarios.
